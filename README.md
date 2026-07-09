@@ -17,7 +17,7 @@ This GitHub profile is used to publish lab-based security research, detection no
 - [CVE-2026-48908 Joomla SP Page Builder Detection](https://github.com/g0thamRabb1t/cve-2026-48908-joomla-sp-page-builder-detection)
 - [CVE-2026-48282 Adobe ColdFusion RDS Detection](https://github.com/g0thamRabb1t/cve-2026-48282-coldfusion-rds-detection)
 - [CVE-2026-46331 pedit COW auditd Detection](https://github.com/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection)
-- [Joomla JCE CVE-2026-48907 Detection](https://github.com/g0thamRabb1t/joomla-jce-cve-2026-48907-detection)
+- [CVE-2026-48907 Joomla JCE Detection](https://github.com/g0thamRabb1t/joomla-jce-cve-2026-48907-detection)
 - [RoguePlanet Defender PoC Validation](https://github.com/g0thamRabb1t/rogueplanet-defender-poc-validation)
 - [Vulnerability Daily Brief](https://github.com/g0thamRabb1t/vuln-daily-brief)
 
