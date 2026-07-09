@@ -1,7 +1,7 @@
-Mateusz Sobolewski | Vulnerability Management & Detection Engineering
+# Mateusz Sobolewski | Vulnerability Management & Detection Engineering
 
 I work in vulnerability management, exposure management and defensive security validation.  
-This GitHub profile is used to publish lab-based security research, detection notes, validation reports and defensive artefacts focused on real-world vulnerability handling.
+This profile contains lab-based CVE validation reports, detection notes and defensive artefacts focused on real-world vulnerability handling.
 
 ## Focus areas
 
