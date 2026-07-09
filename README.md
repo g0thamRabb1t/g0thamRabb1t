@@ -1,4 +1,4 @@
-# Matek Statek | Vulnerability Management & Detection Engineering
+# M4t3kSt4t3k | Vulnerability Management & Detection Engineering
 
 I work in vulnerability management, exposure management and defensive security validation.  
 This GitHub profile is used to publish lab-based security research, detection notes, validation reports and defensive artefacts focused on real-world vulnerability handling.
