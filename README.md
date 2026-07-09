@@ -19,7 +19,6 @@ This GitHub profile is used to publish lab-based security research, detection no
 - [CVE-2026-46331 pedit COW auditd Detection](https://github.com/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection)
 - [CVE-2026-48907 Joomla JCE Detection](https://github.com/g0thamRabb1t/CVE-2026-48907-Joomla-JCE-detection)
 - [RoguePlanet Defender PoC Validation](https://github.com/g0thamRabb1t/rogueplanet-defender-poc-validation)
-- [Vulnerability Daily Brief](https://github.com/g0thamRabb1t/vuln-daily-brief)
 
 ## Publication approach
 
