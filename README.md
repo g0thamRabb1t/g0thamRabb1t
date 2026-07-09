@@ -9,10 +9,12 @@ This profile contains lab-based CVE validation reports, detection notes and defe
 - External Attack Surface Management
 - Detection Engineering
 - CVE validation in controlled lab environments
-- Auditd, PCAP and system telemetry analysis
+- auditd, PCAP and system telemetry analysis
 - Windows, Linux, Exchange, Joomla, ColdFusion and enterprise infrastructure security
 
-## Selected research / validation projects
+## Featured projects
+
+The projects below combine enterprise VM process design with lab-based CVE validation and detection engineering.
 
 - [Enterprise Vulnerability Management System Blueprint](https://github.com/g0thamRabb1t/vulnerability-management-system-blueprint)
 - [CVE-2026-48908 Joomla SP Page Builder Detection](https://github.com/g0thamRabb1t/cve-2026-48908-joomla-sp-page-builder-detection)
