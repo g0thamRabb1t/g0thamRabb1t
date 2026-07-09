@@ -24,3 +24,7 @@ This GitHub profile is used to publish lab-based security research, detection no
 
 The repositories focus on defensive validation, detection opportunities, audit evidence and risk explanation.  
 Where appropriate, exploit source code or weaponized payloads are intentionally omitted.
+
+## Currently publishing
+
+I am currently publishing lab-based CVE validation reports focused on exploitation evidence, system telemetry, detection opportunities and mitigation guidance.
