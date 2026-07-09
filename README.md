@@ -14,6 +14,7 @@ This profile contains lab-based CVE validation reports, detection notes and defe
 
 ## Selected research / validation projects
 
+- [Enterprise Vulnerability Management System Blueprint](https://github.com/g0thamRabb1t/vulnerability-management-system-blueprint)
 - [CVE-2026-48908 Joomla SP Page Builder Detection](https://github.com/g0thamRabb1t/cve-2026-48908-joomla-sp-page-builder-detection)
 - [CVE-2026-48282 Adobe ColdFusion RDS Detection](https://github.com/g0thamRabb1t/cve-2026-48282-coldfusion-rds-detection)
 - [CVE-2026-46331 pedit COW auditd Detection](https://github.com/g0thamRabb1t/cve-2026-46331-pedit-cow-auditd-detection)
